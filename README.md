@@ -43,9 +43,6 @@ LUNG_CANCER
 
 The following models were trained and evaluated:
 
-Logistic Regression
-
-Random Forest Classifier
 
 XGBoost Classifier
 
