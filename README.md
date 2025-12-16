@@ -1,5 +1,5 @@
-🫁 Lung Cancer Prediction using Machine Learning & Deep Learning
-📌 Project Overview
+Lung Cancer Prediction using Machine Learning & Deep Learning
+Project Overview
 
 This project focuses on predicting whether a person has lung cancer based on clinical and lifestyle attributes using multiple machine learning and deep learning models. The goal is to compare different modeling approaches and identify the most effective method for lung cancer detection.
 
