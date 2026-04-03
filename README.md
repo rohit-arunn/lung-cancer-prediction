@@ -42,7 +42,7 @@ The dataset used in this project contains various patient attributes, including:
 
 ### **Target Variable**
 
-* `LUNG_CANCER`
+* `LUNG_CANCER` The target variable has been mapped in such a way as shown below for convenience
 
   * YES → 1
   * NO → 0
