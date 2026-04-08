@@ -132,34 +132,6 @@ The model serves as a strong foundation for future advancements in AI-driven hea
 
 ---
 
-## **11. How to Run the Project**
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-link>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd lung-cancer-prediction
-   ```
-
-3. Install required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the main script:
-
-   ```bash
-   python main.py
-   ```
-
----
-
 ## **12. Acknowledgements**
 
 This project was developed as part of a machine learning initiative to explore real-world applications of predictive modeling in healthcare.
