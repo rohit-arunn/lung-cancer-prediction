@@ -1,4 +1,4 @@
-# **Lung Cancer Prediction using Machine Learning**
+# ** Early Lung Cancer Prediction using Machine Learning**
 
 ## **1. Introduction**
 
